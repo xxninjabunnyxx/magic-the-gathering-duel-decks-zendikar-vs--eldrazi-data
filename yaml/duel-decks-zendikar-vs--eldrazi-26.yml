@@ -1,0 +1,111 @@
+---
+object: card
+id: ede96507-a325-4866-976b-51a824fadc5e
+oracle_id: ff8fb796-af5d-4d64-ab3c-7f2469dfa6bf
+multiverse_ids:
+- 401668
+tcgplayer_id: 104226
+cardmarket_id: 284181
+name: Wildheart Invoker
+lang: en
+released_at: '2015-08-28'
+uri: https://api.scryfall.com/cards/ede96507-a325-4866-976b-51a824fadc5e
+scryfall_uri: https://scryfall.com/card/ddp/26/wildheart-invoker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.jpg?1593095533
+  normal: https://cards.scryfall.io/normal/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.jpg?1593095533
+  large: https://cards.scryfall.io/large/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.jpg?1593095533
+  png: https://cards.scryfall.io/png/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.png?1593095533
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.jpg?1593095533
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/ede96507-a325-4866-976b-51a824fadc5e.jpg?1593095533
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Creature — Elf Shaman
+oracle_text: "{8}: Target creature gets +5/+5 and gains trample until end of turn."
+power: '4'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0dbc7609-b12c-471a-bfd3-c57bc670c445
+set: ddp
+set_name: 'Duel Decks: Zendikar vs. Eldrazi'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/0dbc7609-b12c-471a-bfd3-c57bc670c445
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ede96507-a325-4866-976b-51a824fadc5e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff8fb796-af5d-4d64-ab3c-7f2469dfa6bf&unique=prints
+collector_number: '26'
+digital: false
+rarity: common
+flavor_text: |-
+  "Life as we know it dangles on the brink of extinction. We must show the strength they would steal from us."
+  —*The Invokers' Tales*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Erica Yang
+artist_ids:
+- fcc15b63-b280-49da-9fee-f862824a2fc8
+illustration_id: 6f26e258-13d5-4b1c-8a30-4fad4c5cf343
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11951
+penny_rank: 13797
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401668
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wildheart+Invoker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wildheart+Invoker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wildheart+Invoker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104226?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wildheart+Invoker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wildheart+Invoker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

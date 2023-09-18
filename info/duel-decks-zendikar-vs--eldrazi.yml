@@ -1,0 +1,16 @@
+---
+object: set
+id: 0dbc7609-b12c-471a-bfd3-c57bc670c445
+code: ddp
+tcgplayer_id: 1641
+name: 'Duel Decks: Zendikar vs. Eldrazi'
+uri: https://api.scryfall.com/sets/0dbc7609-b12c-471a-bfd3-c57bc670c445
+scryfall_uri: https://scryfall.com/sets/ddp
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addp&unique=prints
+released_at: '2015-08-28'
+set_type: duel_deck
+card_count: 80
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddp.svg?1694404800

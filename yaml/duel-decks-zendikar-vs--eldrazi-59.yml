@@ -1,0 +1,125 @@
+---
+object: card
+id: 35fab29d-1bcc-4ba0-90bf-427d95bf6699
+oracle_id: 1ee811fb-c25d-4cf5-b396-539c36e8f90f
+multiverse_ids:
+- 401701
+tcgplayer_id: 104245
+cardmarket_id: 284136
+name: Emrakul's Hatcher
+lang: en
+released_at: '2015-08-28'
+uri: https://api.scryfall.com/cards/35fab29d-1bcc-4ba0-90bf-427d95bf6699
+scryfall_uri: https://scryfall.com/card/ddp/59/emrakuls-hatcher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.jpg?1593095836
+  normal: https://cards.scryfall.io/normal/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.jpg?1593095836
+  large: https://cards.scryfall.io/large/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.jpg?1593095836
+  png: https://cards.scryfall.io/png/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.png?1593095836
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.jpg?1593095836
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/35fab29d-1bcc-4ba0-90bf-427d95bf6699.jpg?1593095836
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Creature — Eldrazi Drone
+oracle_text: 'When Emrakul''s Hatcher enters the battlefield, create three 0/1 colorless
+  Eldrazi Spawn creature tokens. They have "Sacrifice this creature: Add {C}."'
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: 35fab29d-1bcc-4ba0-90bf-427d95bf6699
+  component: combo_piece
+  name: Emrakul's Hatcher
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/35fab29d-1bcc-4ba0-90bf-427d95bf6699
+- object: related_card
+  id: f4703aeb-4255-461f-9d46-443143a8ca3b
+  component: token
+  name: Eldrazi Spawn
+  type_line: Token Creature — Eldrazi Spawn
+  uri: https://api.scryfall.com/cards/f4703aeb-4255-461f-9d46-443143a8ca3b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0dbc7609-b12c-471a-bfd3-c57bc670c445
+set: ddp
+set_name: 'Duel Decks: Zendikar vs. Eldrazi'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/0dbc7609-b12c-471a-bfd3-c57bc670c445
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/35fab29d-1bcc-4ba0-90bf-427d95bf6699/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ee811fb-c25d-4cf5-b396-539c36e8f90f&unique=prints
+collector_number: '59'
+digital: false
+rarity: common
+flavor_text: Wordlessly it leads its abhorrent brood.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: bf6173a0-031d-4545-a85e-45d1ebc5bb41
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6204
+penny_rank: 8157
+prices:
+  usd: '0.20'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401701
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Emrakul%27s+Hatcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Emrakul%27s+Hatcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Emrakul%27s+Hatcher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104245?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Emrakul%27s+Hatcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Emrakul%27s+Hatcher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

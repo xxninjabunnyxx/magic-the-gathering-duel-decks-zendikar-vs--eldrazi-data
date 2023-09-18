@@ -1,0 +1,110 @@
+---
+object: card
+id: c7d46f1f-d35b-4b7b-a2db-38791014d16e
+oracle_id: ed8b2887-15fa-4e62-83ac-55973ac6f76c
+multiverse_ids:
+- 401661
+tcgplayer_id: 104220
+cardmarket_id: 284160
+name: Ondu Giant
+lang: en
+released_at: '2015-08-28'
+uri: https://api.scryfall.com/cards/c7d46f1f-d35b-4b7b-a2db-38791014d16e
+scryfall_uri: https://scryfall.com/card/ddp/19/ondu-giant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.jpg?1593095481
+  normal: https://cards.scryfall.io/normal/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.jpg?1593095481
+  large: https://cards.scryfall.io/large/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.jpg?1593095481
+  png: https://cards.scryfall.io/png/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.png?1593095481
+  art_crop: https://cards.scryfall.io/art_crop/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.jpg?1593095481
+  border_crop: https://cards.scryfall.io/border_crop/front/c/7/c7d46f1f-d35b-4b7b-a2db-38791014d16e.jpg?1593095481
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Giant Druid
+oracle_text: When Ondu Giant enters the battlefield, you may search your library for
+  a basic land card, put it onto the battlefield tapped, then shuffle.
+power: '2'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0dbc7609-b12c-471a-bfd3-c57bc670c445
+set: ddp
+set_name: 'Duel Decks: Zendikar vs. Eldrazi'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/0dbc7609-b12c-471a-bfd3-c57bc670c445
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c7d46f1f-d35b-4b7b-a2db-38791014d16e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed8b2887-15fa-4e62-83ac-55973ac6f76c&unique=prints
+collector_number: '19'
+digital: false
+rarity: common
+flavor_text: Some druids nurture gardens. Others nurture continents.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Igor Kieryluk
+artist_ids:
+- 9c3e9d17-509f-485c-9360-46d897ce716b
+illustration_id: 7501ec7b-a3c1-437b-9ee3-b032b487a6b9
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11580
+penny_rank: 4943
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401661
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ondu+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ondu+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ondu+Giant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104220?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ondu+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ondu+Giant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

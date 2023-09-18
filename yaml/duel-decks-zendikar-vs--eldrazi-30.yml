@@ -1,0 +1,109 @@
+---
+object: card
+id: 35155ed9-35f4-4b20-8885-c72b8372fa1d
+oracle_id: 841b1010-a7d3-415e-b76d-7b50fea909cb
+multiverse_ids:
+- 401672
+tcgplayer_id: 104229
+cardmarket_id: 284172
+name: Stonework Puma
+lang: en
+released_at: '2015-08-28'
+uri: https://api.scryfall.com/cards/35155ed9-35f4-4b20-8885-c72b8372fa1d
+scryfall_uri: https://scryfall.com/card/ddp/30/stonework-puma?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.jpg?1593095570
+  normal: https://cards.scryfall.io/normal/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.jpg?1593095570
+  large: https://cards.scryfall.io/large/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.jpg?1593095570
+  png: https://cards.scryfall.io/png/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.png?1593095570
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.jpg?1593095570
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/35155ed9-35f4-4b20-8885-c72b8372fa1d.jpg?1593095570
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact Creature — Cat Ally
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0dbc7609-b12c-471a-bfd3-c57bc670c445
+set: ddp
+set_name: 'Duel Decks: Zendikar vs. Eldrazi'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/0dbc7609-b12c-471a-bfd3-c57bc670c445
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/35155ed9-35f4-4b20-8885-c72b8372fa1d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A841b1010-a7d3-415e-b76d-7b50fea909cb&unique=prints
+collector_number: '30'
+digital: false
+rarity: common
+flavor_text: |-
+  "We suffer uneasy ground, unstable alliances, and unpredictable magic. Something you can truly trust is worth more than a chest of gold."
+  —Nikou, Joraga bard
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: e24cd786-f45c-4de1-a2d7-68ba02716e22
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 22650
+penny_rank: 4141
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401672
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stonework+Puma&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stonework+Puma&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stonework+Puma
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/104229?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stonework+Puma&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stonework+Puma&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
